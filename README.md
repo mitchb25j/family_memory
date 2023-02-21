@@ -1,3 +1,3 @@
-# family_memory
+# Family Memory
 
 Just getting started...
